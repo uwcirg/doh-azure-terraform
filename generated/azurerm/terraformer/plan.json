@@ -1,0 +1,29 @@
+{
+	"Version": "v0.8.24",
+	"Provider": "azurerm",
+	"Options": {
+		"Resources": [],
+		"Excludes": [],
+		"PathPattern": "{output}/{provider}/{service}/",
+		"PathOutput": "generated",
+		"State": "local",
+		"Bucket": "",
+		"Profile": "",
+		"Verbose": false,
+		"Zone": "",
+		"Regions": null,
+		"Projects": null,
+		"ResourceGroup": "",
+		"Connect": true,
+		"Compact": false,
+		"Filter": [],
+		"Output": "hcl",
+		"NoSort": false,
+		"RetryCount": 5,
+		"RetrySleepMs": 300
+	},
+	"Args": [
+		""
+	],
+	"ImportedResource": {}
+}
